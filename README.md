@@ -1,17 +1,19 @@
 # Enhancing transferability of species distribution models – guidance through algorithm, variable, and ensemble modelling decisions
 
 ### Eugene Yu Hin Yau, Alice C Hughes, Timothy C Bonebrake
+[![](https://img.shields.io/badge/Citation-Scientific%20Data-blue)](https://doi.org/link)
+[![](https://img.shields.io/badge/Archive-figshare/25037645-blue)](https://doi.org/10.6084/m9.figshare.25037645)
+[![](https://img.shields.io/badge/License-CC%20BY%204.0-blue)](https://creativecommons.org/licenses/by/4.0/)
 
-<img align="right" src="https://github.com/eugeneyau/Enhancing-SDM-transferability/blob/main/readme_images/trunc%20range%20diff.png" width=420> 
 
 Insect biogeography is poorly documented globally, particularly in the tropics. Recent intensive research in tropical Asia, combined with increasingly available records from citizen science, provides an opportunity to map the distributions of tropical Asian butterflies. We compiled a dataset of 730,190 occurrences of 3,752 tropical Asian butterfly species by aggregating records from GBIF (651,285 records), published literature (27,217), published databases (37,695), and unpublished data (13,993). Here, we present this dataset and single-species distribution maps of 1,576 species. Using these maps, along with records of the 2,176 remaining species, we identified areas of limited sampling (e.g., the Philippines, Myanmar, and New Guinea) and predicted areas of high diversity (Peninsular Malaysia and Borneo). This dataset can be leveraged for a range of studies on Asian and tropical butterflies, including 1) species biogeography, 2) sampling prioritization to fill gaps, 3) biodiversity hotspot mapping, and 4) conservation evaluation and planning. We encourage the continued development of this dataset and the associated code as a tool for the conservation of tropical Asian insects. For more details on our dataset and SDMs, please refer to our [`data paper`](https://doi.org/10.32942/X2C904). 
+
+<img align="left" src="https://github.com/eugeneyau/Enhancing-SDM-transferability/blob/main/readme_images/trunc%20range%20diff.png" width=900> 
 
 
 <br>
 
-[![](https://img.shields.io/badge/Citation-Scientific%20Data-blue)](https://doi.org/link)
-[![](https://img.shields.io/badge/Archive-figshare/25037645-blue)](https://doi.org/10.6084/m9.figshare.25037645)
-[![](https://img.shields.io/badge/License-CC%20BY%204.0-blue)](https://creativecommons.org/licenses/by/4.0/)
+
 
 # Table of Contents
 
