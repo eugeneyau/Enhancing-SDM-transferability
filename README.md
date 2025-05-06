@@ -1,9 +1,7 @@
 # Enhancing transferability of species distribution models – guidance through algorithm, variable, and ensemble modelling decisions
 
 ### Eugene Yu Hin Yau, Alice C Hughes, Timothy C Bonebrake
-[![](https://img.shields.io/badge/Citation-Scientific%20Data-blue)](https://doi.org/link)
-[![](https://img.shields.io/badge/Archive-figshare/25037645-blue)](https://doi.org/10.6084/m9.figshare.25037645)
-[![](https://img.shields.io/badge/License-CC%20BY%204.0-blue)](https://creativecommons.org/licenses/by/4.0/)
+[![](https://img.shields.io/badge/Citation-Ecography-blue)](https://doi.org/link)
 
 
 Species distribution models (SDMs) are useful tools to estimate species’ distributions in unsampled, novel environments (e.g., future climates). However, data available often fail to represent the full range of viable environments for various reasons, including sampling biases, biogeographic barriers, and the availability of potentially suitable habitats. Therefore, many SDMs are likely based on truncated niche spaces and will have to extrapolate in unsampled environments, ultimately over- or under-estimating species’ distributions, especially under climate change. 
