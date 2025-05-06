@@ -37,7 +37,7 @@ Niche truncation resulted in a 41.5% increase in mean SDM inaccuracy when 21.7% 
 
 # Table of Contents
 
-- Cleaned butterfly occurrence records from [GBIF](https://doi.org/10.15468/dd.nvw5wr), [Borneo Butterfly Distribution Database (B2D2)](https://www-users.york.ac.uk/~jkh6/), [Spatial occurrence data for the animals of Bangladesh derived from Facebook](https://doi.pangaea.de/10.1594/PANGAEA.948104), and other credible published sources. 
+- Tropical Asian butterfly occurrence records from [Yau et al. (2024)](https://ecoevorxiv.org/repository/view/7470/). 
   - [`Tropical Asian Butterfly Occurrence Database`](https://doi.org/10.6084/m9.figshare.25037645)
 - Distribution maps of tropical Asian butterflies as predicted by species distribution models(SDMs) can be downloaded as separate raster files or one single PDF file from our [`Figshare repository`](https://doi.org/10.6084/m9.figshare.25037645).
 - R script used to construct SDMs:
