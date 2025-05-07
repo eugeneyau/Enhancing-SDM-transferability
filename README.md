@@ -43,7 +43,12 @@ Niche truncation resulted in a 41.5% increase in mean SDM inaccuracy when 21.7% 
   - [`Code/Virtual species`](https://github.com/)
      - [`R Markdown file`](https://github.com/)
      - [`R script`](https://github.com/)
+
   - [`Code/Truncation`](https://github.com/)
+  
+  - [`Sample`](https://github.com/)
+     - [`R Markdown file`](https://github.com/)
+     - [`R script`](https://github.com/)
 - All files essential for running our R scripts can be downloaded from our [`Figshare repository (TrunSDMsupp_files.zip)`](https://figshare.com/s/feef1f9467edabf71a97) before running our codes.
 - JavaScript code used in Google Earth Engine to extract and filter Landsat data for use as SDM variable (NDVImean), view in [`Google Earth Engine`](https://code.earthengine.google.com/7e1c649f06f22536419886e34a14d830) or download code from here:[`Code/Variables`](https://github.com/eugeneyau/Enhancing-SDM-transferability/blob/main/Code/Variables/GEE_NDVImean.txt)
 
